@@ -1,3 +1,3 @@
 # Branching-Tests
 
-Updated README file
+Updated README file. NEW TEXT
